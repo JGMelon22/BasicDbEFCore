@@ -4,8 +4,8 @@ Simple crud api made using EFCore to simulate a utterly simple store/client sche
 <h3>Used tools</h3>
 
 - SQL Server 2022 <img src="https://dt-cdn.net/hub/sql-server-logo-only_pEMCEEa.png" alt="MSSQL Logo" width="2.5%" height="2.5%"><span/>
-- EFCore 7.x 
-- .NET 6.0 <span> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/.NET_Core_Logo.svg/2048px-.NET_Core_Logo.svg.png" alt=".NET Logo" width="2.5%" height="2.5%"> <span/>
+- EF Core 7 <span> <img src="https://miro.medium.com/max/591/1*4HIU0YdDkj0dmGySVC5D_g.png" alt="EF Core Logo" width="2.5%" height="2.5%"><span/>
+- .NET 6 <span> <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET Logo" width="2.5%" height="2.5%"><span/>
 - Love <img src="https://codingislove.com/wp-content/uploads/2015/12/codinglovenew.png" alt="Love Logo" width="2.5%" height="2.5%"> <span/>
 
 <h4>Tip</h4>
